@@ -1,0 +1,3 @@
+opencv-python==4.2.0.34
+jupyter=1.0.0
+matplotlib==3.2.1
